@@ -3,7 +3,7 @@
 <h3 align="center">🔥An exciting and crazy fullstack developer</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vuslat-%C3%A7evik-7a5b37238/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<a href="https://www.linkedin.com/in/vuslat-%C3%A7evik-7a5b37238/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </p>
 
 
