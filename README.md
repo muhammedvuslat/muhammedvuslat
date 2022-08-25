@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi I'm Muhammed Vuslat ÇEVİK  👋</h1>
 
-<h3 align="center">🔥An exciting and crazy fullstack developer</h3>
+<h3 align="center">🔥A full stack developer with a passion for learning</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vuslat-%C3%A7evik-7a5b37238/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
