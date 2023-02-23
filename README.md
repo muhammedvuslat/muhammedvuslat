@@ -39,7 +39,7 @@
       >01_Todo-App-Back-End</a</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/02_Task-List/task-list-app">02_Tutorial-List</a></td>
+        <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/02_Tutorial-List/tutorial-list-app">02_Tutorial-List</a></td>
         <td>
           <a
             href="https://github.com/muhammedvuslat/Projects/tree/master/2_HTML%26CSS%26JS%20Project/02_Google-Landing-Page"
