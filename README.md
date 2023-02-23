@@ -110,6 +110,15 @@
             >07_Todo_App_DJ_Template</a
           ></td>        
     </tr>
+    <tr>
+        <td><!-- React Project --></td>
+        <td><!-- HTML&CSS&JS Project --></td>
+        <td><!-- Mini Project --></td>
+        <td><a
+            href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/08_Pizza_App"
+            >08_Pizza_App</a
+          ></td>        
+    </tr>
             
 </table>
 
