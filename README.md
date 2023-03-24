@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td><a
-      href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/01_Tour%20-Places/tour-places"
+      href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/01_Tour-Places/tour-places"
       >01_Tour-places</a</td>
         <td >          
             <a
