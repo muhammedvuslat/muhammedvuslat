@@ -39,7 +39,7 @@
       >01_Todo-App-Back-End</a</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/02_Tutorial-List/tutorial-list-app">02_Tutorial-List</a></td>
+        <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/02_Language-Cards">02_Language-Cards</a></td>
         <td>
           <a
             href="https://github.com/muhammedvuslat/Projects/tree/master/2_HTML%26CSS%26JS%20Project/02_Google-Landing-Page"
@@ -52,7 +52,7 @@
         <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/02_Blog-App">02_Blog-App-Back-End</a></td>
     </tr>
     <tr>
-         <td><!-- Satır 3 --></td>
+         <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/03_Tutorial-List/tutorial-list-app">03_Tutorial-List</a></td>
         <td>
            <a
             href="https://github.com/muhammedvuslat/Projects/tree/master/2_HTML%26CSS%26JS%20Project/03_Sass-Project"
@@ -69,7 +69,7 @@
           ></td>
     </tr>
     <tr>
-         <td><!-- Satır 4 --></td>
+         <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/04_Task_Tracker/task_tracker">04_Task_Tracker</a></td>
         <td>
             <a
             href="https://github.com/muhammedvuslat/Projects/tree/master/2_HTML%26CSS%26JS%20Project/04_Loan-Calculation"
@@ -79,11 +79,13 @@
         <td></td>
         <td><a
             href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/04_Personal_App"
-            >04_Personal_App</a
+            >04_Personal_App</a>
           </td>
     </tr>
     <tr>
-         <td><!-- Satır 4 --></td>
+         <td><a
+            href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/05_Recipe-App"
+            >05_Recipe-App</a></td>
         <td>
             <a
             href="https://github.com/muhammedvuslat/Projects/tree/master/2_HTML%26CSS%26JS%20Project/05_Checkout-Page"
@@ -143,7 +145,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedvuslat&show_icons=true&locale=en" alt="muhammedvuslat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedvuslat&" alt="muhammedvuslat" /></p>
-
-
-
-
