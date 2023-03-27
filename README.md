@@ -18,6 +18,7 @@
         <th>HTML&CSS&JS Project</th>
         <th>Mini Project</th>
         <th>Django Project</th>
+        <th>Full Stack Projects</th>
     </tr>
     <tr>
         <td><a
@@ -37,6 +38,10 @@
           <a
       href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/01_Todo-App"
       >01_Todo-App-Back-End</a</td>
+      <td>
+          <a
+      href="https://github.com/muhammedvuslat/Projects/tree/master/5_Full%20Stack%20Projects/01_blog_project"
+      >01_Blog_project</a</td>
     </tr>
     <tr>
         <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/02_Language-Cards">02_Language-Cards</a></td>
@@ -50,6 +55,7 @@
             >02_React_Temperature_Project</a
           ></td>
         <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/02_Blog-App">02_Blog-App-Back-End</a></td>
+        <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/5_Full%20Stack%20Projects/02_news_project">02_News_project</a></td>
     </tr>
     <tr>
          <td><a href="https://github.com/muhammedvuslat/Projects/tree/master/1_React%20Project/03_Tutorial-List/tutorial-list-app">03_Tutorial-List</a></td>
@@ -66,6 +72,10 @@
         <td><a
             href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/03-00_Flight_App"
             >03_Flight_App</a
+          ></td>
+        <td><a
+            href="https://github.com/muhammedvuslat/Projects/tree/master/5_Full%20Stack%20Projects/03_e_commerce"
+            >03_E_Commerce</a
           ></td>
     </tr>
     <tr>
