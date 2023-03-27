@@ -12,7 +12,7 @@
 <h3>In the list below, my projects that I have done since the beginning of the education process are with you.</h2>
 <h4>You can access the relevant directory by clicking on the links.</h4>
 
-<table width="50%" cellpadding="10" align="center" >
+<table >
     <tr>
         <th>React Project</th>
         <th>HTML&CSS&JS Project</th>
