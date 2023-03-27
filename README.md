@@ -91,6 +91,7 @@
             href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/04_Personal_App"
             >04_Personal_App</a>
           </td>
+        <td></td>        
     </tr>
     <tr>
          <td><a
@@ -108,6 +109,7 @@
             href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/05_Rent_a_Car_App_Project"
             >05_Rent_a_Car_App_Project</a
           ></td>
+        <td></td>
     </tr>
     <tr>
          <td><!-- Satır 4 --></td>
@@ -118,6 +120,7 @@
             href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/06_Stock_App_Project"
             >06_Stock_App_Project</a
           ></td>
+        <td></td>
     </tr>
     <tr>
         <td><!-- React Project --></td>
@@ -126,7 +129,8 @@
         <td><a
             href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/07_Todo_App_DJ_Template"
             >07_Todo_App_DJ_Template</a
-          ></td>        
+          ></td>   
+        <td></td>
     </tr>
     <tr>
         <td><!-- React Project --></td>
@@ -135,7 +139,8 @@
         <td><a
             href="https://github.com/muhammedvuslat/Projects/tree/master/4_Django%20Projects/08_Pizza_App"
             >08_Pizza_App</a
-          ></td>        
+          ></td>  
+        <td></td>
     </tr>
             
 </table>
